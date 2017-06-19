@@ -1,6 +1,6 @@
 # helloworld
-#int main()
-#{
+# int main()
+# {
 #  printf("hello world");
-#}
+# }
 helloworld
